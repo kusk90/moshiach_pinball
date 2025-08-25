@@ -12,5 +12,10 @@
     "react": "latest",
     "react-dom": "latest",
     "tailwindcss": "latest"
+  },
+  "devDependencies": {
+  "typescript": "^5.6.3",
+  "@types/react": "^18.3.12",
+  "@types/node": "^20.11.30"
   }
 }
